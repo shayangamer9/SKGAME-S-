@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaultServer": "main",
+  "servers": [
+    {"key":"main","name":"Shadowplay RP","host":"127.0.0.1","port":7777,"online":0,"max":1000,"color":"#A855F7","x2":false,"status":"offline"}
+  ]
+}
